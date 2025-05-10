@@ -9,7 +9,6 @@ lecture_date: 2025-04-17 15:30:00.00-7:00
 
 ---
 # Questions
-
 * Does overloading and overwriting mean the same thing?
     - In this class, yes.
     - In Python, you can simulate overloading a function to work with different parameters, but redefining a function with the same name will overwrite the original function.
